@@ -17,7 +17,8 @@ A smart intercom solution built with **ESP32-S3** that allows you to control you
 | Version | Status | Key Features Added |
 |:---|:---|:---|
 | **v1.0.0** | Stable | Initial release with SSR support, User/Admin roles, and Telegram integration. |
-| **v1.0.1** | Stable | Added README.md file. |
+| **v1.0.1** | Stable | Unknown. |
+| **v1.0.2** | Stable | Added README.md file. |
 
 ---
 
